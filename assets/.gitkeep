@@ -1,0 +1,11 @@
+# This file keeps the assets directory in git
+# Add your game assets here:
+#
+# icons/       - Resource and UI icons
+# producers/   - Producer/generator images
+# upgrades/    - Upgrade icons
+# ui/          - UI elements (buttons, panels, etc.)
+# backgrounds/ - Background images
+# sounds/      - Sound effects
+# music/       - Background music
+
